@@ -3,6 +3,6 @@
   "WindowsUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.1.0/NAIStyleLib_Opt_UpdateEnabled_v1.1.0.exe",
   "WindowsSha256": "E900CC63D96CACB300D680C1A891D4FBB435C3019D07ACA9FAFECB071FDC2476",
   "AndroidUrl": "https://cdn.jsdelivr.net/gh/GmadelynAqq/nai-style-library-releases@main/NAIStyleLibrary-v1.1.0.apk",
-  "AndroidSha256": "9384E0513B861494AE52F2061AC494714317B1F7FD87ABF483311586BA831031",
+  "AndroidSha256": "9939D00D1A9434E5100A66FC91F4E4B68638A3BB90F0A84782171254C33755C3",
   "Notes": "移动端重构为独立画风管理工具，补齐画风创建编辑、搜索分组、收藏、封面、批量清洗解析和 Vibe 管理；导入导出移至工具页。"
 }
