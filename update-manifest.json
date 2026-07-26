@@ -1,0 +1,8 @@
+{
+  "LatestVersion": "1.0.5",
+  "WindowsUrl": "https://cdn.jsdelivr.net/gh/GmadelynAqq/nai-style-library-releases@main/NAIStyleLib_Opt_UpdateEnabled_v1.0.5.exe",
+  "WindowsSha256": "A185751AA0045A26B5590FF21D029C40FC7673870BAF412E911021E794147C6C",
+  "AndroidUrl": "https://cdn.jsdelivr.net/gh/GmadelynAqq/nai-style-library-releases@main/NAIStyleLibrary-v1.0.5.apk",
+  "AndroidSha256": "D9AA9AAC439AF4E9E9F9B4F30FEB9D135A7AE978B31F670788332CA3523E2384",
+  "Notes": "更新服务迁移到公共 CDN，修复部分手机网络无法连接的问题。"
+}
