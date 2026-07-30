@@ -2,7 +2,7 @@
   "LatestVersion": "1.2.1",
   "WindowsUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.2.1/NAIStyleLib_Opt_UpdateEnabled_v1.2.1.exe",
   "WindowsSha256": "F3B3DCCC3D4C16D462DCF13F0495116BF95593712AF0BA6AECBDE20E2298FC5B",
-  "AndroidUrl": "https://cdn.jsdelivr.net/gh/GmadelynAqq/nai-style-library-releases@main/NAIStyleLibrary-v1.2.1.apk",
+  "AndroidUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.2.1/NAIStyleLibrary-v1.2.1.apk",
   "AndroidSha256": "061294B01F74747068A39EC6022C3480017A1A770A4CD159994B30DBDB687514",
   "Notes": "移动端修复空分组显示 null、收藏后跳回顶部等问题；新增长提示词展开编辑，优化生成参数布局、搜索响应、收藏图标和工具触控反馈。桌面版同步为 v1.2.1，并继续支持覆盖旧版更新。"
 }
