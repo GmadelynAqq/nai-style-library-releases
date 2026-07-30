@@ -1,8 +1,8 @@
 {
-  "LatestVersion": "1.2.0",
-  "WindowsUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.2.0/NAIStyleLib_Opt_UpdateEnabled_v1.2.0.exe",
-  "WindowsSha256": "076D244FBE75B7C2DBD4FFA680C7B6B55077D6756BC541C99205CAB85EE2253B",
-  "AndroidUrl": "https://cdn.jsdelivr.net/gh/GmadelynAqq/nai-style-library-releases@main/NAIStyleLibrary-v1.2.0.apk",
-  "AndroidSha256": "19EF1D540B440F1C90371FD3EB1D135B83329C47C91FDFDEBF017D8A0DC889C1",
-  "Notes": "移动端按设计稿重做双列封面库、画风详情和工具页，修复点击区域，加入矢量底栏与缩略图分页加载；桌面版保持原功能并可覆盖旧版更新。"
+  "LatestVersion": "1.2.1",
+  "WindowsUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.2.1/NAIStyleLib_Opt_UpdateEnabled_v1.2.1.exe",
+  "WindowsSha256": "F3B3DCCC3D4C16D462DCF13F0495116BF95593712AF0BA6AECBDE20E2298FC5B",
+  "AndroidUrl": "https://cdn.jsdelivr.net/gh/GmadelynAqq/nai-style-library-releases@main/NAIStyleLibrary-v1.2.1.apk",
+  "AndroidSha256": "32AD0D7162B9DD1D42FFA22E6737C2830290D72C890101AF1447C94DA1755B7D",
+  "Notes": "移动端修复空分组显示 null、收藏后跳回顶部等问题；新增长提示词展开编辑，优化生成参数布局、搜索响应、收藏图标和工具触控反馈。桌面版同步为 v1.2.1，并继续支持覆盖旧版更新。"
 }
