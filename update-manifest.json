@@ -1,8 +1,8 @@
 {
-  "LatestVersion": "1.3.1",
-  "WindowsUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.1/NAIStyleLib_Opt_UpdateEnabled_v1.3.1.exe",
-  "WindowsSha256": "7C359B61343C4A7D8EF0B09E7DCABC878F5BE583264A3118EC05D61A9997ED37",
-  "AndroidUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.1/NAIStyleLibrary-v1.3.1.apk",
-  "AndroidSha256": "6C61C8F0926F05398C4A5856CF5A5E32DE5999D8AD9A0A12AACA8EA79D21DE96",
-  "Notes": "移动端重新校准系统栏与页面边距，修复多处内容偏移；画廊网格改为自适应图片比例，照片墙、筛选标签和解析状态样式进一步贴合设计稿；图片详情新增固定操作栏、更多菜单与提示词折叠。桌面版同步为 v1.3.1。"
+  "LatestVersion": "1.3.2",
+  "WindowsUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.2/NAIStyleLib_Opt_UpdateEnabled_v1.3.2.exe",
+  "WindowsSha256": "5E32AEAE3F8BB461475168A4A460BF0CCEB0D8DBCD14C82602CB3034979FD893",
+  "AndroidUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.2/NAIStyleLibrary-v1.3.2.apk",
+  "AndroidSha256": "3A15EEB4C7C5ECD6418A01085398D097EDCE697A41A70AD74DC5422FD55DE750",
+  "Notes": "移动端画风详情移除整段原始 JSON 的备注栏，保留画风串、正面提示词、负面提示词和生成参数等字段；PNG 解析工具仍保留原始信息展示与复制。新增、返回、更多和工具页图标全部改为光学居中的矢量图标。桌面版同步为 v1.3.2。"
 }
