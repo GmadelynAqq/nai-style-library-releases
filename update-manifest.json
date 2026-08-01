@@ -1,8 +1,8 @@
 {
-  "LatestVersion": "1.2.2",
-  "WindowsUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.2.2/NAIStyleLib_Opt_UpdateEnabled_v1.2.2.exe",
-  "WindowsSha256": "5DF65E3A44FA81D2C253647CE5F88FBA34F9C091708A920F04E3F6498A11AEAA",
-  "AndroidUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.2.2/NAIStyleLibrary-v1.2.2.apk",
-  "AndroidSha256": "1FD1312D7992E4B72E9E80BB2A1CFB8E25F137576588A66F0E38E2C84BC68718",
-  "Notes": "移动端升级虚拟化列表和异步封面加载，滑动与首屏响应更顺畅；PNG 解析导入时自动使用原图作为封面；底栏“收藏”改为“分组”，红心画风直接置顶；随机入口和页面细节重新精修。桌面版同步为 v1.2.2，并支持覆盖旧版更新。"
+  "LatestVersion": "1.3.0",
+  "WindowsUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.0/NAIStyleLib_Opt_UpdateEnabled_v1.3.0.exe",
+  "WindowsSha256": "66FA023920B230BF83AD0268BA7F6F3B74415E9D4DF9DB3157E605F244101B73",
+  "AndroidUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.0/NAIStyleLibrary-v1.3.0.apk",
+  "AndroidSha256": "773AC7473A95FEBA2A8473DAFC6493CD0C775BAECFDC886C3A580F218B80A719",
+  "Notes": "移动端新增独立画廊，支持批量上传、PNG 自动解析与纯图片收藏；新增网格/照片墙切换、筛选搜索、分组、图片详情、提示词复制和导入画风库；整体 UI 对照新版设计重构。桌面版同步为 v1.3.0，并继续支持覆盖旧版更新。"
 }
