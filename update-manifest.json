@@ -1,12 +1,12 @@
 {
-  "LatestVersion": "1.3.8",
-  "WindowsVersion": "1.3.8",
-  "AndroidVersion": "1.3.8",
-  "WindowsUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.8/NAIStyleLib_Opt_UpdateEnabled_v1.3.8.exe",
-  "WindowsSha256": "F2C9221BADB5DF17EFEA11F0C9BB759391C1AFF8D67BCC1451FDE48C0EB3B40C",
-  "AndroidUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.8/NAIStyleLibrary-v1.3.8.apk",
-  "AndroidSha256": "1BA07ABF269FDC7D6C7024763491544B63FC2EA02453260CA094E79E3010AD41",
-  "Notes": "桌面版新增出图文件夹监控、拖图快捷浮窗、随机分组组合保存、相似与重复对比、画风库自动备份与恢复；优化封面按需加载和重复卡片标记。监控保留最近500条参数记录，只收集监控运行期间的新PNG。\nAndroid：更新检查兼容性修复：按Android版本与更新说明检查更新，避免桌面版更新导致重复提示。移动端现有功能保持不变。",
-  "WindowsNotes": "桌面版新增出图文件夹监控、拖图快捷浮窗、随机分组组合保存、相似与重复对比、画风库自动备份与恢复；优化封面按需加载和重复卡片标记。监控保留最近500条参数记录，只收集监控运行期间的新PNG。",
-  "AndroidNotes": "更新检查兼容性修复：按Android版本与更新说明检查更新，避免桌面版更新导致重复提示。移动端现有功能保持不变。"
+  "LatestVersion": "1.3.9",
+  "WindowsVersion": "1.3.9",
+  "AndroidVersion": "1.3.9",
+  "WindowsUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.9/NAIStyleLib_Opt_UpdateEnabled_v1.3.9.exe",
+  "WindowsSha256": "50647AF2B0E91E488FD1D8317DE42F7DFF7FA3DBD641370A6447BFEB2B0DD2D8",
+  "AndroidUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.9/NAIStyleLibrary-v1.3.9.apk",
+  "AndroidSha256": "A35FF052A09FA1DC46031169C75FFF23785BA9518009C6254C2F8BEFC2270012",
+  "Notes": "Windows：新增独立人设库：保存名称、分组、人设描述、正负提示词和参考图，支持搜索、编辑、删除、复制提示词及上一版数据备份。保留 1.3.8 出图监控、拖图浮窗、随机组合、相似对比和画风库备份等功能。\nAndroid：同步桌面端新增功能：人设库支持描述、提示词、参考图、搜索、编辑、草稿和备份恢复；出图文件夹监控支持子目录、后台通知、暂停、最近 500 条参数历史、复制提示词及转入收藏和清洗。开始监控时跳过旧图；后台受系统省电策略影响。沿用原签名，可覆盖升级保留数据。",
+  "WindowsNotes": "新增独立人设库：保存名称、分组、人设描述、正负提示词和参考图，支持搜索、编辑、删除、复制提示词及上一版数据备份。保留 1.3.8 出图监控、拖图浮窗、随机组合、相似对比和画风库备份等功能。",
+  "AndroidNotes": "同步桌面端新增功能：人设库支持描述、提示词、参考图、搜索、编辑、草稿和备份恢复；出图文件夹监控支持子目录、后台通知、暂停、最近 500 条参数历史、复制提示词及转入收藏和清洗。开始监控时跳过旧图；后台受系统省电策略影响。沿用原签名，可覆盖升级保留数据。"
 }
