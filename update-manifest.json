@@ -1,12 +1,12 @@
 {
-  "LatestVersion": "1.3.12",
-  "WindowsVersion": "1.3.12",
+  "LatestVersion": "1.3.18",
+  "WindowsVersion": "1.3.18",
   "AndroidVersion": "1.3.12",
-  "WindowsUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.12/NAIStyleLib_Opt_UpdateEnabled_v1.3.12.exe",
-  "WindowsSha256": "A4B1AE31322D901DE005FF635F26106411448E69ACFBC5A36E0537CEFA64ED00",
+  "WindowsUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.18/NAIStyleLib_Opt_UpdateEnabled_v1.3.18.exe",
+  "WindowsSha256": "9CF281B41989F2CC2C511278B64DC21A448371E6B3F003D2197AEE5FFC5429B8",
   "AndroidUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.12/NAIStyleLibrary-v1.3.12.apk",
   "AndroidSha256": "2704422C1091A9BA4D462506F0E2982067E0B1FD5C60D365CB942AD7108EB4F9",
-  "Notes": "修复两端人设复制：正向提示词为空时复制人设描述。电脑端新增卡片复制与描述、正负提示词独立复制。手机端退出人设、画风、画廊详情后保留浏览位置及搜索筛选，修复画廊返回入口。",
-  "WindowsNotes": "人设卡片新增复制按钮，编辑窗口支持独立复制描述、正向及负向提示词。快捷复制优先读取正向提示词，为空时读取人设描述。",
+  "Notes": "Windows：解析页支持勾选自动取名，使用图片文件名。导入确认窗口保留分组和画风串填写，正面提示词独立保存。连续导入多张图片时，保存后留在解析页。 Android：继续使用 1.3.12。",
+  "WindowsNotes": "解析页支持勾选自动取名，使用图片文件名。导入确认窗口保留分组和画风串填写，正面提示词独立保存。连续导入多张图片时，保存后留在解析页。",
   "AndroidNotes": "修复人设描述有内容却提示无法复制的问题，新增复制人设和描述按钮。退出人设、画风、画廊详情后保留浏览位置及搜索筛选。修复画廊详情返回按钮误回画风库的问题。沿用原签名，可覆盖升级。"
 }
