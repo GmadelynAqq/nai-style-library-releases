@@ -1,12 +1,12 @@
 {
-  "LatestVersion": "1.3.18",
-  "WindowsVersion": "1.3.18",
+  "LatestVersion": "1.3.22",
+  "WindowsVersion": "1.3.22",
   "AndroidVersion": "1.3.12",
-  "WindowsUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.18/NAIStyleLib_Opt_UpdateEnabled_v1.3.18.exe",
-  "WindowsSha256": "9CF281B41989F2CC2C511278B64DC21A448371E6B3F003D2197AEE5FFC5429B8",
+  "WindowsUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.22/NAIStyleLib_Opt_UpdateEnabled_v1.3.22.exe",
+  "WindowsSha256": "E67208A2D82B716033AF68713B714B3D67BA426C9C48306A5B944F4EAA15E851",
   "AndroidUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.12/NAIStyleLibrary-v1.3.12.apk",
   "AndroidSha256": "2704422C1091A9BA4D462506F0E2982067E0B1FD5C60D365CB942AD7108EB4F9",
-  "Notes": "Windows：解析页支持勾选自动取名，使用图片文件名。导入确认窗口保留分组和画风串填写，正面提示词独立保存。连续导入多张图片时，保存后留在解析页。 Android：继续使用 1.3.12。",
-  "WindowsNotes": "解析页支持勾选自动取名，使用图片文件名。导入确认窗口保留分组和画风串填写，正面提示词独立保存。连续导入多张图片时，保存后留在解析页。",
+  "Notes": "Windows：图片清洗默认执行深度清洗，清除原始文本、EXIF、时间、DPI及像素隐藏信息。新增图片预览、文件夹导入、进度与取消、失败重试、结果报告。支持六组输出命名规则和自定义正面提示词，清洗后导入解析可显示填写文字。修复选项不生效、输出覆盖及署名丢失。原图保留，透明区域铺白底；动画PNG不支持深度清洗。 Android：继续使用 1.3.12。",
+  "WindowsNotes": "图片清洗默认执行深度清洗，清除原始文本、EXIF、时间、DPI及像素隐藏信息。新增图片预览、文件夹导入、进度与取消、失败重试、结果报告。支持六组输出命名规则和自定义正面提示词，清洗后导入解析可显示填写文字。修复选项不生效、输出覆盖及署名丢失。原图保留，透明区域铺白底；动画PNG不支持深度清洗。",
   "AndroidNotes": "修复人设描述有内容却提示无法复制的问题，新增复制人设和描述按钮。退出人设、画风、画廊详情后保留浏览位置及搜索筛选。修复画廊详情返回按钮误回画风库的问题。沿用原签名，可覆盖升级。"
 }
