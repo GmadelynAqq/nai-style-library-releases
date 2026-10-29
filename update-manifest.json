@@ -1,12 +1,12 @@
 {
-  "LatestVersion": "1.3.31",
-  "WindowsVersion": "1.3.31",
-  "AndroidVersion": "1.3.22",
-  "WindowsUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.31/NAIStyleLib_Opt_UpdateEnabled_v1.3.31.exe",
-  "WindowsSha256": "CE15E0C6AF4F596DF3AA257791470C2BDAC0FCF3E3764D53FF669FDD16EDC01B",
-  "AndroidUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.31/NAIStyleLibrary-v1.3.22.apk",
-  "AndroidSha256": "836BE75A8C616960534373DB91DCB76B3D04541DBA8821BEACA2FA3F7F8D8749",
-  "Notes": "Windows：新增离线画风实验室，保留原网页版完整 UI、随机权重、必选锁定、批量生成与历史收藏。支持直接使用本地画师库或自己填写；新增一键命名分组存入画风串收藏库，保存前自动备份；画师范围支持全部、仅已确认、仅收藏、搜索勾选和临时排除，范围与锁定可恢复。\r\nAndroid：同步新增完整画风实验室：工具 → 画风实验室，默认使用本地画师库，可切换手填。支持一键命名分组存入画风库，以及已确认／收藏筛选、搜索勾选、临时排除与范围记忆。保留原版随机权重、高级约束、历史收藏和 JSON/TXT 导入导出。沿用原正式签名，可覆盖升级保留资料。",
-  "WindowsNotes": "新增离线画风实验室，保留原网页版完整 UI、随机权重、必选锁定、批量生成与历史收藏。支持直接使用本地画师库或自己填写；新增一键命名分组存入画风串收藏库，保存前自动备份；画师范围支持全部、仅已确认、仅收藏、搜索勾选和临时排除，范围与锁定可恢复。",
-  "AndroidNotes": "同步新增完整画风实验室：工具 → 画风实验室，默认使用本地画师库，可切换手填。支持一键命名分组存入画风库，以及已确认／收藏筛选、搜索勾选、临时排除与范围记忆。保留原版随机权重、高级约束、历史收藏和 JSON/TXT 导入导出。沿用原正式签名，可覆盖升级保留资料。"
+  "LatestVersion": "1.3.32",
+  "WindowsVersion": "1.3.32",
+  "AndroidVersion": "1.3.23",
+  "WindowsUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.32/NAIStyleLib_Opt_UpdateEnabled_v1.3.32.exe",
+  "WindowsSha256": "0F0CD8F7D575EDF4B74AC6F6F783A5580DFE6631CFCDB81FBD1BCAF582E89944",
+  "AndroidUrl": "https://github.com/GmadelynAqq/nai-style-library-releases/releases/download/v1.3.32/NAIStyleLibrary-v1.3.23.apk",
+  "AndroidSha256": "394585DFA093C82B833A44644065A75D776946ABE69D5325FDB209F811B088C8",
+  "WindowsNotes": "更换为 Gmadelyn 提供的原画图标：更新 EXE 文件、窗口及任务栏图标，适配 16–256 像素。保留完整原画与底部文字；一键存入画风库、画师范围筛选和实验室全部功能继续可用。",
+  "AndroidNotes": "更换为 Gmadelyn 提供的原画图标，适配桌面圆形、自适应遮罩及五组屏幕密度。保留原画与底部文字，沿用原正式签名，可覆盖升级；画风实验室功能继续可用。",
+  "Notes": "Windows / Android：统一更换为 Gmadelyn 提供的原画应用图标，保留原画和底部文字，适配各尺寸及手机圆形遮罩。沿用现有签名，支持覆盖升级。保留画风实验室、一键存入画风库、画师范围筛选及原有功能。"
 }
